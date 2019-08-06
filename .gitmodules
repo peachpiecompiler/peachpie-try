@@ -1,0 +1,8 @@
+[submodule "mirrorsharp"]
+	path = mirrorsharp
+	url = https://github.com/peachpiecompiler/mirrorsharp.git
+	branch = peachpie-only
+[submodule "sharplab"]
+	path = sharplab
+	url = https://github.com/peachpiecompiler/SharpLab.git
+	branch = peachpie-only
