@@ -1,5 +1,6 @@
 <Project>
   <PropertyGroup>
+    <PeachpieVersion>0.9.45</PeachpieVersion>
     <VersionSuffix>pchp</VersionSuffix>
     <PackageOutputPath>$(MSBuildThisFileDirectory)/.nugs</PackageOutputPath>
   </PropertyGroup>
