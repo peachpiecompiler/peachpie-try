@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <VersionSuffix>pchp</VersionSuffix>
+    <PackageOutputPath>$(MSBuildThisFileDirectory)/.nugs</PackageOutputPath>
+  </PropertyGroup>
+</Project>
